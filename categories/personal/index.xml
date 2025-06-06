@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal on Goose Pond</title>
+    <link>http://localhost:1313/categories/personal/</link>
+    <description>Recent content in Personal on Goose Pond</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;拖延了5年终于在gpt的帮助下把鹅塘建起来了 ：）
+fuck the censorship ：）我想些啥就写啥哈哈哈&lt;/p&gt;
+&lt;p&gt;一只肥鹅&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
