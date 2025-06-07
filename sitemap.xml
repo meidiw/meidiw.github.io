@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/about/</loc>
+    <loc>https://meidiw.github.io/posts/about/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://meidiw.github.io/categories/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://meidiw.github.io/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>https://meidiw.github.io/tags/personal/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
+    <loc>https://meidiw.github.io/categories/personal/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://meidiw.github.io/posts/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://meidiw.github.io/tags/</loc>
     <lastmod>2025-02-18T12:00:00+00:00</lastmod>
   </url>
 </urlset>
