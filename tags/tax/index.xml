@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tax on Goose Pond</title>
+    <link>https://meidiw.github.io/tags/tax/</link>
+    <description>Recent content in Tax on Goose Pond</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Aug 2025 17:33:14 -0400</lastBuildDate>
+    <atom:link href="https://meidiw.github.io/tags/tax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>留学生fellowship收到1099-misc怎么报税？-lesson from 2024 tax filing disaster</title>
+      <link>https://meidiw.github.io/posts/your-post-slug/</link>
+      <pubDate>Wed, 06 Aug 2025 17:33:14 -0400</pubDate>
+      <guid>https://meidiw.github.io/posts/your-post-slug/</guid>
+      <description>&lt;p&gt;[搬运几年前的豆瓣文章]&lt;/p&gt;
+&lt;p&gt;TL,DR：适用情况: tax status是resident alien，phd学生，学校的fellowhsip发了1099-misc税表。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;income 按这个步骤在turbotax里填，freetaxusa也是类似的，一定不要选这个self-employment
+&lt;figure&gt;
+        &lt;img loading=&#34;lazy&#34; src=&#34;https://meidiw.github.io/images/turbotax.jpg&#34;
+             alt=&#34;Credit to turbotax论坛&#34;/&gt; &lt;figcaption&gt;
+                &lt;p&gt;Credit to turbotax论坛&lt;/p&gt;
+            &lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;deduction用standard deduction。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;efile，可能会有late penalty，软件里可以一起交掉。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;disclaimer：我不学会计，以上只是我的理解。&lt;/p&gt;
+&lt;p&gt;下面是我的碎碎念版本：）
+本来以为今年的报税会像往年一样轻松愉快，没想到等到3月还没收到tax form 就是off to a bad start. 痛苦头秃了两天，感觉差不多弄清楚了，今天就直接买了turbotax premier把税交啦。costco买！比直接网页买便宜$30, 假如是有折扣的时候就更便宜了。&lt;/p&gt;
+&lt;p&gt;过去几年我一直用freetaxusa很好用！不用花钱也可以处理股票什么的。&lt;/p&gt;
+&lt;p&gt;等到3月下半还没收到税表，往年都是电子版w2，去学校office问才知道今年我是收1099-misc，不知道为什么还没给我寄到。上网一查才知道原来因为这个我去年一直没被withhold tax，随便google还发现了什么self-employment tax整个大恐慌！研究了一天多终于弄明白了。 if youare also here, dont panic!!! It&amp;rsquo;s essentially the same, and you&amp;rsquo;re not paying higher taxes than W2 income&amp;hellip;. other than having to pay a huge amount of money(for PhD students)  to the IRS in one go.&lt;/p&gt;
+&lt;p&gt;（IRS 提供payment plan，如果需要可以选择）&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
